@@ -1,7 +1,7 @@
 {
   "name": "Motivate Clock",
   "short_name": "Clock",
-  "description": "HRC Developer",
+  "description": "HRC Developer - Light Theme",
   "start_url": "https://ihrithikchoudhary.github.io/motivationclock-light",
   "display": "standalone",
   "background_color": "#ffffff",
