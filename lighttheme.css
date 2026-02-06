@@ -15,7 +15,8 @@ body {
     height: 100%;
     align-items: center;
     justify-content: center;
-    background: url('https://picsum.photos/3840/2160?nocache=');
+    /* background: url('https://picsum.photos/3840/2160?nocache='); */
+    background: url("0_Milky_Way_Night_Sky_1280x720.mp4");
     background-size: cover;
     background-repeat: no-repeat;
     background-color: rgb(35, 33, 33);
