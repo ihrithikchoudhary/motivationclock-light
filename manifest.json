@@ -13,7 +13,7 @@
       "type": "image/png"
     },
     {
-      "src": "alarm-clock.png",
+      "src": "https://cdn.delivr.net/gh/ihrithikchoudhary/motivationclock/alarm-clock.png",
       "sizes": "512x512",
       "type": "https://cdn.delivr.net/gh/ihrithikchoudhary/motivationclock/alarm-clock.png"
     }
