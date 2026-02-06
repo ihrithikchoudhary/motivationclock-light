@@ -1,7 +1,7 @@
 {
   "name": "Motivation Clock",
   "short_name": "Clock",
-  "start_url": " ",
+  "start_url": "https://ihrithikchoudhary.github.io/motivationclock-light",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1a73e8",
