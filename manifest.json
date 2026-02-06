@@ -1,0 +1,29 @@
+{
+  "name": "Motivation Clock",
+  "short_name": "Clock",
+  "start_url": " ",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a73e8",
+  "icons": [
+    {
+      "src": "https://cdn.delivr.net/gh/ihrithikchoudhary/motivationclock/alarm-clock.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/alarm-clock.png",
+      "sizes": "512x512",
+      "type": "https://cdn.delivr.net/gh/ihrithikchoudhary/motivationclock/alarm-clock.png"
+    }
+  ]
+  "compact": true,
+  "controlFlowFlattening": true,
+  "controlFlowFlatteningThreshold": 0.7,
+  "deadCodeInjection": true,
+  "deadCodeInjectionThreshold": 0.4,
+  "stringArray": true,
+  "stringArrayEncoding": ["base64"],
+  "selfDefending": true,
+  "disableConsoleOutput": true
+}
