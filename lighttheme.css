@@ -43,15 +43,15 @@ body {
 
 #ampm {
     position: absolute;
-    font-size: 5vw;
+    font-size: 4vw;
     padding: 4px;
     color: rgba(255, 255, 255, 0.485);
     margin-left: 1rem;
-    bottom: 0;
-    margin-bottom: 1rem;
+    bottom: 2vw;
+    margin-bottom: 1.2rem;
     padding: 0px 20px;
     border-radius: 10px;
-    box-shadow: 0 8px #888;
+    box-shadow: 0 4px #888;
     border: 1px solid #888;
 }
 
@@ -88,14 +88,15 @@ body {
     width: 200px;
     position: absolute;
     left: 6rem;
-    top: 5rem;
+    padding: .8vw;
+    top: 3vw;
     z-index: 1111;
     overflow: hidden;
     color: #fff;
     gap: 2px;
     font-family: "Sacramento", cursive;
     border-radius: 12px;
-    box-shadow: 0 8px #888;
+    box-shadow: 0 4px #888;
     border: 1px solid #888;
     
 }
